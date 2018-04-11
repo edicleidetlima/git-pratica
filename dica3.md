@@ -1,0 +1,1 @@
+Use git em todos os seus projetos.
